@@ -35,3 +35,19 @@
 
 	</picture>
 ```
+
+```css
+		body {
+			margin: 0;
+			padding: 0
+		}
+
+		.img-inner {
+			width: 50%;
+		}
+
+		.img-resp {
+			max-width: 100%;
+			height: auto;
+		}
+```
